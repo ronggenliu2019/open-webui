@@ -3,6 +3,7 @@ node_modules
 /build
 /.svelte-kit
 /package
+/backend/python_3_12/
 .env
 .env.*
 !.env.example
